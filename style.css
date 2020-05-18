@@ -1,0 +1,92 @@
+
+.head{
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 91%);
+    height: 90px;
+    padding-bottom: 40px;
+}
+.header{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 25px;
+}
+.form-inline{
+    position: absolute;
+    top: 40%;
+    left:30%;
+    width: 500px;
+}
+.datetime{
+    padding-left: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.btn.btn-primary{
+    position: absolute;
+    left: 42%;
+    top: 50%;
+}
+#demo{
+    position: absolute;
+    left: 40%;
+    top: 20%;
+}
+.time{
+    position: absolute;
+    top: 50%;
+    left: 31%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.form{
+    position: absolute;
+    left: 40%;
+    bottom: 40%;
+  display: block;
+  width: 50%;
+  background: #fff;
+  border-radius: 31px;
+  font-family: Ubuntu-Bold;
+  font-size: 18px;
+  color: #8f8fa1;
+  line-height: 1;
+}
+#future{
+    position: absolute;
+    top: 70%;
+    left: 76%;
+}
+#future1{
+    position: absolute;
+    top: 70%;
+    left: 60%;
+}
+#present{
+    position: absolute;
+    top: 70%;
+    left: 17%;
+}
+#present1{
+    position: absolute;
+    top: 70%;
+}
+#whole{
+    background-color: #52ACFF;
+background-image: linear-gradient(180deg, #52ACFF 25%, #FFE32C 100%);
+
+    width: 1365px;
+    height: 565px;
+}
+#gif1{
+    position: absolute;
+    top: 65%;
+    left: 32%;
+    height: 200px;
+    width: 400px;
+}
+#gif2{
+    position: absolute;
+    top: 65%;
+    left: 32%;
+    height: 200px;
+    width: 400px;
+}
+
